@@ -10,6 +10,7 @@ License:	GPL
 URL:            http://gqapplets.sourceforge.net
 Group:		Graphical desktop/GNOME
 Source0:	%{name}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 Requires:	libgnomeui2
 Requires:	libpanel-applet >= 2.0.0
 BuildRequires:	libgnomeui2-devel
