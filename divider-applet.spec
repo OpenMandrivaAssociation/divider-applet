@@ -1,6 +1,6 @@
 %define name	divider-applet
 %define version 1.99.1
-%define release  %mkrel 4
+%define release  %mkrel 5
 
 Summary:	Applet that adds a divider to your panel
 Name:		%{name}
