@@ -7,7 +7,7 @@ Name:		%{name}
 Version:    	%{version}
 Release:	%{release}
 License:	GPL
-URL:            http://gqapplets.sourceforge.net
+URL:            https://gqapplets.sourceforge.net
 Group:		Graphical desktop/GNOME
 Source0:	%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
